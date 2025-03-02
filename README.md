@@ -102,8 +102,8 @@
 
 ## 🤝🏻 Contactame
 
-<a href="https://www.instagram.com/tomiiicabanillas"><img src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=%23fcaf45"/></a>
-<a href="mailto:tm.cabanillas@gmail.com"><img src="https://img.shields.io/badge/tm.cabanillas%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+<a href="https://www.instagram.com/tomiiicabanillas" target=”_blank”><img src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=%23fcaf45"/></a>
+<a href="mailto:tm.cabanillas@gmail.com" target=”_blank”><img src="https://img.shields.io/badge/tm.cabanillas%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
 <br>
 <br>
